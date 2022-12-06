@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "Charts-Cornored"
-  s.version = "4.1.0"
+  s.version = "4.1.1"
   s.summary = "Charts is a powerful & easy to use chart library for iOS, tvOS and OSX (and Android)"
   s.homepage = "https://github.com/sarbajit125/Charts.git"
   s.license = { :type => "Apache License", :file => "LICENSE" }
